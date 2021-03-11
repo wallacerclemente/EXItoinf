@@ -1,0 +1,6 @@
+C:\Projetos\EX Itoinf\EXItoinfWallace\EXItoinfWallace\obj\Debug\EXItoinfWallace.csprojAssemblyReference.cache
+C:\Projetos\EX Itoinf\EXItoinfWallace\EXItoinfWallace\obj\Debug\EXItoinfWallace.exe.config
+C:\Projetos\EX Itoinf\EXItoinfWallace\EXItoinfWallace\obj\Debug\EXItoinfWallace.Properties.Resources.resources
+C:\Projetos\EX Itoinf\EXItoinfWallace\EXItoinfWallace\obj\Debug\EXItoinfWallace.Visoes.Inicial.resources
+C:\Projetos\EX Itoinf\EXItoinfWallace\EXItoinfWallace\obj\Debug\EXItoinfWallace.csproj.GenerateResource.cache
+C:\Projetos\EX Itoinf\EXItoinfWallace\EXItoinfWallace\obj\Debug\EXItoinfWallace.csproj.CoreCompileInputs.cache

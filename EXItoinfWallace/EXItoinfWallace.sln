@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXItoinfWallace", "EXItoinfWallace\EXItoinfWallace.csproj", "{BDEFC10D-9536-441A-A9D7-2856AB020647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEFC10D-9536-441A-A9D7-2856AB020647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEFC10D-9536-441A-A9D7-2856AB020647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEFC10D-9536-441A-A9D7-2856AB020647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEFC10D-9536-441A-A9D7-2856AB020647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60196665-EDC0-42EF-B09A-3EDC795B87F8}
+	EndGlobalSection
+EndGlobal
